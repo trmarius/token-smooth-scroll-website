@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg815"
+   width="816"
+   height="1053.4399"
+   viewBox="0 0 816 1053.4399"
+   sodipodi:docname="roadmap.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\Marius\Desktop\roadmap.png"
+   inkscape:export-xdpi="60.969555"
+   inkscape:export-ydpi="60.969555">
+  <metadata
+     id="metadata821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs819">
+    <marker
+       style="overflow:visible"
+       inkscape:stockid="InfiniteLineEnd"
+       id="InfiniteLineEnd"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:isstock="true">
+      <g
+         id="g1164"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+        <circle
+           id="circle1158"
+           r="0.80000001"
+           cy="0"
+           cx="3"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+        <circle
+           id="circle1160"
+           r="0.80000001"
+           cy="0"
+           cx="6.5"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+        <circle
+           id="circle1162"
+           r="0.80000001"
+           cy="0"
+           cx="10"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+      </g>
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview817"
+     showgrid="false"
+     inkscape:zoom="0.59270135"
+     inkscape:cx="382.88167"
+     inkscape:cy="926.40886"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg815" />
+  <circle
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff6a00;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     id="path847-9"
+     cx="161.88977"
+     cy="333.9686"
+     r="30" />
+  <circle
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff6a00;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     id="path847-9-8"
+     cx="161.88977"
+     cy="575.92828"
+     r="30" />
+  <circle
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff6a00;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     id="path847-9-8-4"
+     cx="161.88977"
+     cy="849.62708"
+     r="30" />
+  <circle
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff6100;stroke-width:0.37795275;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+     id="path849"
+     cx="166.25116"
+     cy="341.70593"
+     r="15" />
+  <circle
+     style="opacity:1;fill:#ff6a00;fill-opacity:1;fill-rule:evenodd;stroke:#ff6a00;stroke-width:1.88976383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     id="path868"
+     cx="161.91629"
+     cy="334.83777"
+     r="15" />
+  <path
+     style="fill:none;stroke:#ff6a00;stroke-width:3.80705047;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 161.88976,186.63492 V 303.74716"
+     id="path1190"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#ff6a00;stroke-width:3.76204824;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15.04819249, 7.52409625;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 162.14279,363.13497 v 181.1437"
+     id="path1190-0"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#ff6a00;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15.11811024, 7.55905512;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 162.19705,604.7525 V 820.6898"
+     id="path1190-0-8"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.20347214px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.32521701"
+     x="251.72533"
+     y="290.37732"
+     id="text1241-8"
+     transform="scale(0.82899507,1.2062798)"><tspan
+       sodipodi:role="line"
+       id="tspan1239-1"
+       x="251.72533"
+       y="290.37732"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome Bold';stroke-width:2.32521701">Q2 2021</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.20347214px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.32521701"
+     x="251.72533"
+     y="490.01093"
+     id="text1241-8-1"
+     transform="scale(0.82899507,1.2062798)"><tspan
+       sodipodi:role="line"
+       id="tspan1239-1-5"
+       x="251.72533"
+       y="490.01093"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome Bold';stroke-width:2.32521701">Q3 2021</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.20347214px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.32521701"
+     x="250.38158"
+     y="716.2912"
+     id="text1241-8-1-2"
+     transform="scale(0.82899507,1.2062798)"><tspan
+       sodipodi:role="line"
+       id="tspan1239-1-5-1"
+       x="250.38158"
+       y="716.2912"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome Bold';stroke-width:2.32521701">Q4 2021</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317"
+     cx="257.14301"
+     cy="202.28413"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="274.10156"
+     y="208.77809"
+     id="text1338"><tspan
+       sodipodi:role="line"
+       id="tspan1336"
+       x="274.10156"
+       y="208.77809">Contract deployed.</tspan><tspan
+       sodipodi:role="line"
+       x="274.10156"
+       y="228.77809"
+       id="tspan1340" /></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-8"
+     cx="257.14301"
+     cy="231.68378"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="274.46875"
+     y="238.17773"
+     id="text1338-2"><tspan
+       sodipodi:role="line"
+       id="tspan1336-7"
+       x="274.46875"
+       y="238.17773">Website released.</tspan><tspan
+       sodipodi:role="line"
+       x="274.46875"
+       y="258.17773"
+       id="tspan1340-1" /></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-87"
+     cx="257.14301"
+     cy="260.31635"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.42969"
+     y="266.8103"
+     id="text1338-1"><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="266.8103"
+       id="tspan1390">Presale.</tspan><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="286.8103"
+       id="tspan1340-9" /></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-80"
+     cx="257.14301"
+     cy="288.17682"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="274.46875"
+     y="294.67078"
+     id="text1338-8"><tspan
+       sodipodi:role="line"
+       id="tspan1336-2"
+       x="274.46875"
+       y="294.67078">Pancakeswap listing.</tspan><tspan
+       sodipodi:role="line"
+       x="274.46875"
+       y="314.67078"
+       id="tspan1340-0" /></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5"
+     cx="257.14301"
+     cy="375.65359"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.42969"
+     y="382.14755"
+     id="text1338-0"><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="382.14755"
+       id="tspan1340-05">Blockfolio listing.</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-3"
+     cx="257.14301"
+     cy="406.28616"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="274.10156"
+     y="412.78012"
+     id="text1338-0-8"><tspan
+       sodipodi:role="line"
+       id="tspan1336-4-3"
+       x="274.10156"
+       y="412.78012">CoinmarketCap listing.</tspan><tspan
+       sodipodi:role="line"
+       x="274.10156"
+       y="432.78012"
+       id="tspan1340-05-0" /></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-3-7"
+     cx="257.14301"
+     cy="438.4978"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="274.10156"
+     y="442.99176"
+     id="text1338-0-8-1"><tspan
+       sodipodi:role="line"
+       x="274.10156"
+       y="442.99176"
+       id="tspan1340-05-0-5">Coingecko listing.</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-3-7-3"
+     cx="257.14301"
+     cy="467.09549"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.42969"
+     y="472.22202"
+     id="text1338-0-8-1-4"><tspan
+       sodipodi:role="line"
+       id="tspan1336-4-3-9-3"
+       x="273.42969"
+       y="472.22202">Keep burning the owner wallet as we greet new holders. </tspan><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="492.22202"
+       id="tspan1518">Burn at 500,1000,200..etc until there are no more tokens left.</tspan><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="512.22205"
+       id="tspan1520" /><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="532.22205"
+       id="tspan1340-05-0-5-3" /></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-3-7-3-2"
+     cx="257.14301"
+     cy="516.43042"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.42969"
+     y="522.92432"
+     id="text1338-0-8-1-4-0"><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="522.92432"
+       id="tspan1340-05-0-5-3-4">Marketing; Build social media presence.</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-0"
+     cx="257.14301"
+     cy="621.48627"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.42969"
+     y="627.98022"
+     id="text1338-0-2"><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="627.98022"
+       id="tspan1340-05-1">Release whitepaper.</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-0-4"
+     cx="257.14301"
+     cy="653.69794"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.60938"
+     y="660.19189"
+     id="text1338-0-2-7"><tspan
+       sodipodi:role="line"
+       x="273.60938"
+       y="660.19189"
+       id="tspan1340-05-1-6">Utilize tokens to play and buy objects.</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-0-4-3"
+     cx="257.14301"
+     cy="687.10254"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.42969"
+     y="693.5965"
+     id="text1338-0-2-7-5"><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="693.5965"
+       id="tspan1340-05-1-6-6">Lottery pools.</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-0-4-3-7"
+     cx="257.14301"
+     cy="721.7002"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.94531"
+     y="728.19415"
+     id="text1338-0-2-7-5-9"><tspan
+       sodipodi:role="line"
+       x="273.94531"
+       y="728.19415"
+       id="tspan1340-05-1-6-6-8">Security audit by a well respected audit firm.</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-0-4-3-7-0"
+     cx="257.14301"
+     cy="756.29791"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.42969"
+     y="762.79187"
+     id="text1338-0-2-7-5-9-4"><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="762.79187"
+       id="tspan1340-05-1-6-6-8-1">Donation campaign.</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-0-4-3-7-0-6"
+     cx="257.14301"
+     cy="790.89563"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="274.10156"
+     y="797.38959"
+     id="text1338-0-2-7-5-9-4-7"><tspan
+       sodipodi:role="line"
+       x="274.10156"
+       y="797.38959"
+       id="tspan1340-05-1-6-6-8-1-4">CEX/DEX Listings.</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-0-4-3-7-0-6-5"
+     cx="257.14301"
+     cy="964.69336"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.42969"
+     y="971.18732"
+     id="text1338-0-2-7-5-9-4-7-3"><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="971.18732"
+       id="tspan1340-05-1-6-6-8-1-4-1">Further ecosystem development.</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-0-4-3-7-0-6-5-1"
+     cx="257.14301"
+     cy="900.58405"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="273.42969"
+     y="907.078"
+     id="text1338-0-2-7-5-9-4-7-3-0"><tspan
+       sodipodi:role="line"
+       x="273.42969"
+       y="907.078"
+       id="tspan1340-05-1-6-6-8-1-4-1-6">First Partnerships.</tspan></text>
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.28599977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path1317-5-0-4-3-7-0-6-5-1-5"
+     cx="257.14301"
+     cy="932.72589"
+     r="5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="274.46875"
+     y="939.21985"
+     id="text1338-0-2-7-5-9-4-7-3-0-1"><tspan
+       sodipodi:role="line"
+       x="274.46875"
+       y="939.21985"
+       id="tspan1340-05-1-6-6-8-1-4-1-6-6">Website rework.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.20347214px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome Bold';letter-spacing:0px;word-spacing:0px;fill:#ff6a00;fill-opacity:1;stroke:none;stroke-width:2.32521701"
+     x="354.80869"
+     y="63.864311"
+     id="text1241-3"
+     transform="scale(0.82899507,1.2062798)"><tspan
+       sodipodi:role="line"
+       id="tspan1239-3"
+       x="354.80869"
+       y="63.864311"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome Bold';fill:#ff6a00;fill-opacity:1;stroke-width:2.32521701">HACHIKŌIN ROADMAP</tspan></text>
+  <circle
+     style="opacity:1;fill:#ff6a00;fill-opacity:1;fill-rule:evenodd;stroke:#ff6100;stroke-width:0.37795275;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+     id="path847"
+     cx="160.18898"
+     cy="159.19537"
+     r="30" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.20347214px;line-height:1.25;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.32521701"
+     x="250.38158"
+     y="144.0101"
+     id="text1241"
+     transform="scale(0.82899507,1.2062798)"><tspan
+       sodipodi:role="line"
+       id="tspan1239"
+       x="250.38158"
+       y="144.0101"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome Bold';stroke-width:2.32521701">May 2021</tspan></text>
+</svg>
